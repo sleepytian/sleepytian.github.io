@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaweb.old/javaweb.old.iml" filepath="$PROJECT_DIR$/javaweb.old/javaweb.old.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/myProject.iml" filepath="$PROJECT_DIR$/myProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python/python.iml" filepath="$PROJECT_DIR$/python/python.iml" />
     </modules>
   </component>
 </project>
